@@ -1,2 +1,1 @@
-# gcp341
-Data Warehousing con BigQuery y SQL
+# gcp301 Data Warehousing con BigQuery y SQL
